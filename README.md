@@ -7,14 +7,19 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 
 
 ## 🔗 Meus Links
+<div style="display:flex>
+
+<a href="https://www.instagram.com/sopepeu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
-📰 [Linkedin](https://www.linkedin.com/in/pedro-talma-toledo/)<br/>
 
-📱 [Meu Site](https://pepeubh.github.io/Projeto-Site-Pessoal/html/index.html)<br/>
 
-🗃 [Email](pedrotoledo1717@gmail.com)<br/>
+<a href = "mailto:pedrotoledo1717@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+
+<a href="https://www.linkedin.com/in/pedro-talma-toledo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
 
 
 ## ⚙ Linguagens e Ferramentas
@@ -42,13 +47,16 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 </div>
 
 ## 📊 Estatísticas
-<div style="display:flex">
 
- <img height="170em" widith="35%" src="https://github-readme-stats.vercel.app/api?username=PepeuBH&show_icons=true&theme=transparent&include_all_commits=true&count_private=true%22/%3E">
+<div align="center">
 
-<img height="170em" widith="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeuBH&layout=compact&theme=transparent&langs_count=16&%22/%3E">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PepeuBH&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeuBH&layout=compact&langs_count=7&theme=transparent"/>
 
 </div>
+
 
 ![Snake animation](https://github.com/PepeuBH/PepeuBH/blob/output/github-contribution-grid-snake.svg)
 
