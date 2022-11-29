@@ -33,9 +33,9 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 
 
 ## 💼 Repositórios
-<a href="https://github.com/PepeuBH/IdeaProjects"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/PepeuBH/IdeaProjects.png" width="460px" align="right"></a>
+<a href="https://github.com/PepeuBH/IdeaProjects"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/PepeuBH/IdeaProjects.png" width="460px"></a>
 
-<a href="https://github.com/PepeuBH/Projeto-Site-Pessoal"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/PepeuBH/Projeto-Site-Pessoal.png" width="460px" align="left"></a>
+<a href="https://github.com/PepeuBH/Projeto-Site-Pessoal"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/PepeuBH/Projeto-Site-Pessoal.png" width="460px"></a>
 
 
  ## 📊 Estatísticas
