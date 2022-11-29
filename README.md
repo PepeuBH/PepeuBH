@@ -33,18 +33,22 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 
 
 ## 💼 Repositórios
+<div style="display:flex">
+
 <a href="https://github.com/PepeuBH/IdeaProjects"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/PepeuBH/IdeaProjects.png" width="460px"></a>
 
 <a href="https://github.com/PepeuBH/Projeto-Site-Pessoal"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/PepeuBH/Projeto-Site-Pessoal.png" width="460px"></a>
 
+</div>
 
+## 📊 Estatísticas
+<div style="display:flex">
 
- ## 📊 Estatísticas
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepeuBH&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+ <img height="170em" widith="40%" src="https://github-readme-stats.vercel.app/api?username=PepeuBH&show_icons=true&theme=transparent&include_all_commits=true&count_private=true%22/%3E">
 
+<img height="170em" widith="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeuBH&layout=compact&theme=transparent&langs_count=16&%22/%3E">
 
-<img height="170em" widith="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeuBH&layout=compact&langs_count=16&theme=transparent&%22/%3E">
-
+</div>
 
 ![Snake animation](https://github.com/PepeuBH/PepeuBH/blob/output/github-contribution-grid-snake.svg)
 
