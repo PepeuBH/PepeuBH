@@ -1,4 +1,4 @@
-### Pedro Talma Toledo 👨‍💻
+# Pedro Talma Toledo 👨‍💻
 
 **` Estudante de Engenharia de Software - PUC Minas `**
 
@@ -8,16 +8,16 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 
 ## 🔗 Meus Links
 
-💻 - [Meu Site](https://pepeubh.github.io/Projeto-Site-Pessoal/html/index.html)
-🧾 - [Linkedin](https://www.linkedin.com/in/pedro-talma-toledo/)
-✉ - [Email](pedrotoledo1717@gmail.com)
+
+📰 [Linkedin](https://www.linkedin.com/in/pedro-talma-toledo/)<br/>
+
+📱 [Meu Site](https://pepeubh.github.io/Projeto-Site-Pessoal/html/index.html)<br/>
+
+🗃 [Email](pedrotoledo1717@gmail.com)<br/>
 
 
-![giphycode3](https://user-images.githubusercontent.com/83847068/204658229-75c1c62b-c278-4f93-9278-bcca08e59fdc.gif)
 
-
-
-### ⚙ Linguagens e Ferramentas
+## ⚙ Linguagens e Ferramentas
 <img align="left" alt="icon" width="30px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="icon" width="30px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="icon" width="30px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -31,9 +31,22 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 <img align="left" alt="icon" width="30px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <br />
 
-### 💼 Repositórios
-https://github.com/PepeuBH/IdeaProjects
+
+## 💼 Repositórios
+<a href="https://github.com/PepeuBH/IdeaProjects"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/PepeuBH/IdeaProjects.png" width="460px" align="right" style="padding-bottom:30px; padding-top:30px;"></a>
+
+<a href="https://github.com/PepeuBH/Projeto-Site-Pessoal"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/PepeuBH/Projeto-Site-Pessoal.png" width="460px" align="left" style="padding-bottom:30px; padding-top:30px;"></a>
 
 
  ## 📊 Estatísticas
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepeuBH&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img style="width:1000px; border-radius:30px; padding-top:30px;"  src="https://user-images.githubusercontent.com/83847068/204658229-75c1c62b-c278-4f93-9278-bcca08e59fdc.gif">
+
+
+
+
+
+
+
