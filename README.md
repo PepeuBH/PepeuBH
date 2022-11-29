@@ -4,7 +4,8 @@
 
 Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na PUC Minas. Estou atualmente no 3° período e possuo conhecimento em Java, HTML/CSS, Javascript, SQL, modelagem de processos e desenvolvimento full stack. Além disso, tenho experiência com metologias ágeis como Scrum, XP e Kanban. Estou focados no estudos em Java e POO este ano. Meu objetivo é ter uma carreira sólida como desenvolvedor (seja backend, front-end ou full stack). Sei que o caminho até meu objetivo não será fácil, mas estou disposto a estudar bastante para alcançar minha meta. Meus projetos servem para treinar e aumentar cada vez mais meu conhecimento nesta área.
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a>
+![giphy](https://user-images.githubusercontent.com/83847068/204639575-7abe3120-08b5-4624-99d5-571d52ee33b8.gif)
+
 
 <!--
 **PepeuBH/PepeuBH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
