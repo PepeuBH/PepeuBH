@@ -9,8 +9,11 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 
 
 ## Meus Links
+<p align="left">
 💻 - [Meu Site](https://pepeubh.github.io/Projeto-Site-Pessoal/html/index.html)
 🧾 - [Linkedin](https://www.linkedin.com/in/pedro-talma-toledo/)
+✉ - [Email](pedrotoledo1717@gmail.com)
+<p/>
 
 
 
@@ -27,46 +30,13 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 <img align="left" alt="icon" width="30px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
 <img align="left" alt="icon" width="30px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <br />
-          
 
-          
+<hr>
 
-          
 
-          
-
-          
-
-          
-
-          
-          
-          
-          
           
 
 
 
-
-
-
-
-
-
-
+ ## 📊 Estatísticas
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepeuBH&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**PepeuBH/PepeuBH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
