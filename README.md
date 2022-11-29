@@ -1,4 +1,4 @@
-### Pedro Talma Toledo (PepeuBH) 👨‍💻
+### Pedro Talma Toledo 👨‍💻
 
 **` Estudante de Engenharia de Software - PUC Minas `**
 
@@ -8,7 +8,9 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 ![giphy](https://user-images.githubusercontent.com/83847068/204639575-7abe3120-08b5-4624-99d5-571d52ee33b8.gif) 
 
 
-## Meus Links
+
+
+## 🔗 Meus Links
 
 💻 - [Meu Site](https://pepeubh.github.io/Projeto-Site-Pessoal/html/index.html)
 🧾 - [Linkedin](https://www.linkedin.com/in/pedro-talma-toledo/)
@@ -16,8 +18,7 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 
 
 
-
-### Linguagens e Ferramentas
+### ⚙ Linguagens e Ferramentas
 <img align="left" alt="icon" width="30px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="icon" width="30px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="icon" width="30px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -31,11 +32,8 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 <img align="left" alt="icon" width="30px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <br />
 
-<hr>
-
-
-          
-
+### 💼 Repositórios
+https://github.com/PepeuBH/IdeaProjects
 
 
  ## 📊 Estatísticas
