@@ -12,7 +12,7 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 🧾 - [Linkedin](https://www.linkedin.com/in/pedro-talma-toledo/)
 ✉ - [Email](pedrotoledo1717@gmail.com)
 
-![giphy code](https://user-images.githubusercontent.com/83847068/204656107-f3922d0a-7152-409c-b08a-5b5a318171aa.gif)
+![giphy code](https://user-images.githubusercontent.com/83847068/204656107-f3922d0a-7152-409c-b08a-5b5a318171aa.gif)![giphy](https://user-images.githubusercontent.com/83847068/204656312-5d2b2bf4-4f41-4134-89bd-f221e99704e1.gif)
 
 
 ### ⚙ Linguagens e Ferramentas
