@@ -44,9 +44,9 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 ## 📊 Estatísticas
 <div style="display:flex">
 
- <img height="170em" widith="40%" src="https://github-readme-stats.vercel.app/api?username=PepeuBH&show_icons=true&theme=transparent&include_all_commits=true&count_private=true%22/%3E">
+ <img height="170em" widith="35%" src="https://github-readme-stats.vercel.app/api?username=PepeuBH&show_icons=true&theme=transparent&include_all_commits=true&count_private=true%22/%3E">
 
-<img height="170em" widith="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeuBH&layout=compact&theme=transparent&langs_count=16&%22/%3E">
+<img height="170em" widith="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeuBH&layout=compact&theme=transparent&langs_count=16&%22/%3E">
 
 </div>
 
