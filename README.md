@@ -9,11 +9,11 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 
 
 ## Meus Links
-<p align="left">
+
 💻 - [Meu Site](https://pepeubh.github.io/Projeto-Site-Pessoal/html/index.html)
 🧾 - [Linkedin](https://www.linkedin.com/in/pedro-talma-toledo/)
 ✉ - [Email](pedrotoledo1717@gmail.com)
-<p/>
+
 
 
 
