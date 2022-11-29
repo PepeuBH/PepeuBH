@@ -38,15 +38,16 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 <a href="https://github.com/PepeuBH/Projeto-Site-Pessoal"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/PepeuBH/Projeto-Site-Pessoal.png" width="460px"></a>
 
 
+
  ## 📊 Estatísticas
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepeuBH&theme=transparent&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<img height="170em" widith="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepeuBH&layout=compact&langs_count=16&theme=transparent&%22/%3E">
+
+
+![Snake animation](https://github.com/PepeuBH/PepeuBH/blob/output/github-contribution-grid-snake.svg)
+
+
+
 <img style="width:1000px; border-radius:30px; padding-top:30px;"  src="https://user-images.githubusercontent.com/83847068/204658229-75c1c62b-c278-4f93-9278-bcca08e59fdc.gif">
-
-
-
-
-
-
-
