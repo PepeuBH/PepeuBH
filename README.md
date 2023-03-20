@@ -7,17 +7,10 @@ Meu nome é Pedro Talma Toledo, tenho 19 anos e estudo Engenharia de Software na
 
 
 ## 🔗 Meus Links
-<div style="display:flex>
-
-<a href="https://www.instagram.com/sopepeu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-
-<a href = "mailto:pedrotoledo1717@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 <a href="https://www.linkedin.com/in/pedro-talma-toledo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
 
 
 ## ⚙ Linguagens e Ferramentas
